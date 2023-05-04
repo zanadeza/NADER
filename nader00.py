@@ -95,7 +95,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 5, 5, 1, 10 ,9)
+g= datetime.datetime(2023, 5, 6, 1, 10 ,9)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\033[1;32m تم ايقاف الاداه راسل المطور نادر لتفعيل ')
@@ -643,7 +643,7 @@ class Main:
 		self.loop = 0
 
 		print(logo)
-		print(" \033[1;32m[1]  اداه صيد 2007")
+		print(" \033[1;32m[1]  اداه صيد 2009 فقط")
 		#print(" \033[1;32m[2] صيد 2006 فقط")
 		print("\033[1;31m [E] خروج \n")
 		UZAIR =input(" \033[1;33mاختار رقم : ")
@@ -664,9 +664,9 @@ class Main:
 			Main()
  
 	def old(self):
-		x = 11000000
-		xx = 99999999
-		idx = "6"
+		x = 1111111
+		xx = 9999999
+		idx = "10000000"
 		os.system('clear');print(logo)
 		limit = int(input(" \n\033[1;34m اختار رقم الفحص \n \033[1;32m10000 \n \033[1;35m20000 \n \033[1;31m30000 \n \033[1;33m40000 \n \033[1;36m50000 \n \033[1;32m اختار رقم:"))
 		if limit>50000:
